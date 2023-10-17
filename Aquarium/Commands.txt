@@ -1,0 +1,7 @@
+sudo raspi-config
+sudo apt install python3-matplotlib
+pip install secure-smtplib
+pip install email-to
+
+# command to chek recent event helps in finding port
+dmesg
